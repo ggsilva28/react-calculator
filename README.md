@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React Calculator
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developed during the React Fundamentals + Redux course from COD3R. It's a simple react calculator using the basics concepts of React.
 
 ## Available Scripts
 
